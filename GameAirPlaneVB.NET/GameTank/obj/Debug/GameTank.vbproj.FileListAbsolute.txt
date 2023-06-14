@@ -1,0 +1,41 @@
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\bin\Debug\GameTank.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\obj\Debug\GameTank.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\obj\Debug\GameTank.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\obj\Debug\GameTank.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\bin\Debug\GameTank.exe
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\bin\Debug\GameTank.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\bin\Debug\GameTank.xml
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\obj\Debug\GameTank.exe
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\obj\Debug\GameTank.xml
+c:\users\admin\documents\visual studio 2012\Projects\GameTank\GameTank\obj\Debug\GameTank.pdb
+H:\Desigen\软件设计\Game\GameTank\GameTank\bin\Debug\GameTank.exe.config
+H:\Desigen\软件设计\Game\GameTank\GameTank\obj\Debug\GameTank.exe
+H:\Desigen\软件设计\Game\GameTank\GameTank\obj\Debug\GameTank.xml
+H:\Desigen\软件设计\Game\GameTank\GameTank\obj\Debug\GameTank.pdb
+H:\Desigen\软件设计\Game\GameTank\GameTank\bin\Debug\GameTank.exe
+H:\Desigen\软件设计\Game\GameTank\GameTank\bin\Debug\GameTank.pdb
+H:\Desigen\软件设计\Game\GameTank\GameTank\bin\Debug\GameTank.xml
+H:\Desigen\软件设计\Game\GameTank\GameTank\obj\Debug\GameTank.Form1.resources
+H:\Desigen\软件设计\Game\GameTank\GameTank\obj\Debug\GameTank.Resources.resources
+H:\Desigen\软件设计\Game\GameTank\GameTank\obj\Debug\GameTank.vbproj.GenerateResource.Cache
+H:\Desigen\软件设计\Game\GameTank\bin\Debug\GameTank.exe.config
+H:\Desigen\软件设计\Game\GameTank\bin\Debug\GameTank.exe
+H:\Desigen\软件设计\Game\GameTank\bin\Debug\GameTank.pdb
+H:\Desigen\软件设计\Game\GameTank\bin\Debug\GameTank.xml
+H:\Desigen\软件设计\Game\GameTank\obj\Debug\GameTank.Form1.resources
+H:\Desigen\软件设计\Game\GameTank\obj\Debug\GameTank.Resources.resources
+H:\Desigen\软件设计\Game\GameTank\obj\Debug\GameTank.vbproj.GenerateResource.Cache
+H:\Desigen\软件设计\Game\GameTank\obj\Debug\GameTank.exe
+H:\Desigen\软件设计\Game\GameTank\obj\Debug\GameTank.xml
+H:\Desigen\软件设计\Game\GameTank\obj\Debug\GameTank.pdb
+H:\Desigen\软件设计\Game\GameTank\obj\Debug\GameTank.vbprojResolveAssemblyReference.cache
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\bin\Debug\GameTank.exe.config
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\bin\Debug\GameTank.exe
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\bin\Debug\GameTank.pdb
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\bin\Debug\GameTank.xml
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\obj\Debug\GameTank.Form1.resources
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\obj\Debug\GameTank.Resources.resources
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\obj\Debug\GameTank.vbproj.GenerateResource.Cache
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\obj\Debug\GameTank.exe
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\obj\Debug\GameTank.xml
+H:\Desigen\软件设计\Game\GameAirPlaneVB.NET\GameTank\obj\Debug\GameTank.pdb

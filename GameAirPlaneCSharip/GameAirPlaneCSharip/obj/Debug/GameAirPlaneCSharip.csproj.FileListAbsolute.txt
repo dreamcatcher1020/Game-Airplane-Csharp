@@ -1,0 +1,40 @@
+c:\users\admin\documents\visual studio 2012\Projects\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe
+c:\users\admin\documents\visual studio 2012\Projects\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.exe
+c:\users\admin\documents\visual studio 2012\Projects\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.pdb
+H:\Desigen\软件设计\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe.config
+H:\Desigen\软件设计\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.exe
+H:\Desigen\软件设计\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.pdb
+G:\Desigen\软件设计\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe.config
+G:\Desigen\软件设计\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.exe
+G:\Desigen\软件设计\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.pdb
+G:\Desigen\软件设计\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe.config
+G:\Desigen\软件设计\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.exe
+G:\Desigen\软件设计\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.pdb
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe.config
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.exe
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.pdb
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.pdb
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\Microsoft.DirectX.Direct3D.dll
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\Microsoft.DirectX.Direct3D.xml
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.csprojResolveAssemblyReference.cache
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.Form1.resources
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.Properties.Resources.resources
+F:\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.csproj.GenerateResource.Cache
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe.config
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.exe
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\GameAirPlaneCSharip.pdb
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\Microsoft.DirectX.Direct3D.dll
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\bin\Debug\Microsoft.DirectX.Direct3D.xml
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.csprojAssemblyReference.cache
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.Form1.resources
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.Properties.Resources.resources
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.csproj.GenerateResource.cache
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.csproj.CopyComplete
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.exe
+E:\Developer\Desigen\Tests\Tests-WindowsForms\Game\GameAirPlaneCSharip\GameAirPlaneCSharip\obj\Debug\GameAirPlaneCSharip.pdb
